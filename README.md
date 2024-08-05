@@ -1,10 +1,10 @@
 # Dayhoff
 
 List of participants and affiliations:
-- Kelly Vaughan, Ph.D. Associate Professor & Chair of Biology, King University (Team Leader), lkvaughan@king.edu
-- Kehinde Idowu, Ph.D. Texas Southern University
-- Jeffrey Robinson MS, Ph.D. Biostatistics and Bioinformatics faculty, UMBC Translational Life Science Technology BS program.
-- [Katie Sandlin](https://www.linkedin.com/in/kmsandlin/) M.S., [Genomics Education Partnership](https://thegep.org/) / [The University of Alabama](https://bsc.ua.edu/)
+- Kelly Vaughan, Ph.D., Associate Professor & Chair of Biology, King University (Team Leader), lkvaughan@king.edu
+- Kehinde Idowu, Ph.D., Texas Southern University
+- Jeffrey Robinson, Ph.D., Biostatistics and Bioinformatics faculty, UMBC Translational Life Science Technology BS program.
+- [Katie Sandlin](https://www.linkedin.com/in/kmsandlin/), M.S., [Genomics Education Partnership](https://thegep.org/) / [The University of Alabama](https://bsc.ua.edu/)
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
