@@ -4,7 +4,7 @@ List of participants and affiliations:
 - Participant, Affiliation (Team Leader), contact information
 - Kehinde Idowu
 - Xyanthine Parillon
-- Jeffrey Robinson
+- Jeffrey Robinson MS, PhD. Biostatistics and Bioinformatics faculty, UMBC Translational Life Science Technology BS program.
 - Katie Sandlin
 - Kelly Vaughan, PhD. Associate Professor & Chair of Biology, King University
 
