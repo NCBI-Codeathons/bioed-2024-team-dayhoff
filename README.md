@@ -1,8 +1,12 @@
-# Team Project Name
+# Dayhoff
 
 List of participants and affiliations:
 - Participant, Affiliation (Team Leader), contact information
-- Participant, Affiliation
+- Kehinde Idowu
+- Xyanthine Parillon
+- Jeffrey Robinson
+- Katie Sandlin
+- Kelly Vaughan, PhD. Associate Professor & Chair of Biology, King University
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
