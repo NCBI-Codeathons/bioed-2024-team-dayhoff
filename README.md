@@ -1,12 +1,10 @@
 # Dayhoff
 
 List of participants and affiliations:
-- Participant, Affiliation (Team Leader), contact information
-- Kehinde Idowu
-- Xyanthine Parillon
+- Kelly Vaughan, Ph.D. Associate Professor & Chair of Biology, King University (Team Leader), lkvaughan@king.edu
+- Kehinde Idowu, Ph.D. Texas Southern University
 - Jeffrey Robinson MS, PhD. Biostatistics and Bioinformatics faculty, UMBC Translational Life Science Technology BS program.
-- Katie Sandlin
-- Kelly Vaughan, PhD. Associate Professor & Chair of Biology, King University
+- Katie Sandlin M.S., Genomics Education Partnership/The University of Alabama
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
