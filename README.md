@@ -9,6 +9,8 @@ List of participants and affiliations:
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
 
+Students will explore the structure & evolutionary relatoinships in the Insulin Receptor gene. The premise is based on the question of why can diabetic cats use the same insulin as humans.
+
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
 
