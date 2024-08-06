@@ -14,6 +14,10 @@ List the specific learning goals students will achieve with this curriculum.
 
 ## Learning Objectives
 List the specific learning goals students will achieve with this curriculum.
+  1. Use NCBI Structure database to find protein structures.
+  2. Use ICN3D to visualize key mutations.
+  3. Use ClinVar to identify clinically-relevant gene variants, and display them in ICN3D.
+  4. Use protein homology resources to generate multiple sequence alignments from a species collection.
 
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
