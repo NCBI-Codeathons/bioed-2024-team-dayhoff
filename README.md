@@ -22,9 +22,9 @@ List the specific learning goals students will achieve with this curriculum.
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
 
-  1. Human (Homo sapiens) Insulin Receptor canonical structure: 
-  2. Human insulin receptor NCBI Gene page: https://www.ncbi.nlm.nih.gov/gene/3643
-  3. Human insulin receptor structure bound to 4 insulin molecules: https://www.ncbi.nlm.nih.gov/Structure/pdb/6SOF
+  1. Human insulin receptor NCBI Gene page: https://www.ncbi.nlm.nih.gov/gene/3643
+  2. Human insulin receptor structure bound to 4 insulin molecules: https://www.ncbi.nlm.nih.gov/Structure/pdb/6SOF
+  3. 
 
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
