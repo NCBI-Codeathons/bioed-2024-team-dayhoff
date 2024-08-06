@@ -25,7 +25,7 @@ Specify the resources developed, including lesson plans, activities, worksheets,
   1. Human insulin receptor NCBI Gene page: https://www.ncbi.nlm.nih.gov/gene/3643
   2. Human insulin receptor structure bound to 4 insulin molecules: [https://www.ncbi.nlm.nih.gov/Structure/pdb/6SOF](https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?Dopt=s&uid=181343)
   3. 
-([working Google doc to be used during development](url)) https://docs.google.com/document/d/1JpeNqyG5Vt6PPsPShBwHitOZUnhFL4RzY-PW6xXj43E/edit
+(working Google doc to be used during development) https://docs.google.com/document/d/1JpeNqyG5Vt6PPsPShBwHitOZUnhFL4RzY-PW6xXj43E/edit
 
 
 ## Assessments
