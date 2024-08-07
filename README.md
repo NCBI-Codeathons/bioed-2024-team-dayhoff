@@ -22,7 +22,7 @@ List the specific learning goals students will achieve with this curriculum.
   4. Use protein homology resources to generate multiple sequence alignments from a species collection.
 
 ## Course Materials
-
+Jeff's awesome iCn3D structure
 https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6
 
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
