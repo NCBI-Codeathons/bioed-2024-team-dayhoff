@@ -21,7 +21,7 @@ List the specific learning goals students will achieve with this curriculum.
 ## Learning Objectives
 - (Introduction) Learn about the role of the insulin receptor protein and insulin binding
     - Review the Central Dogma in the context of protein structure/function and gene sequence variation
-- Successfully utilize a variety of NCBI databases and software to deepen understanding of ???
+- Successfully utilize a variety of NCBI databases and software
     - (Module 1) Use computational tools to model the protein structure
         - Explore the relationship between protein structure and function
         - Visualize and predict what effect a mutation will have on protein activity
