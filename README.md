@@ -15,27 +15,41 @@ Students will explore the structure & evolutionary relatoinships in the Insulin 
 List the specific learning goals students will achieve with this curriculum.
 
 ## Learning Objectives
-List the specific learning goals students will achieve with this curriculum.
-  1. Use NCBI Structure database to find protein structures.
-  2. Use ICN3D to visualize key mutations.
-  3. Use ClinVar to identify clinically-relevant gene variants, and display them in ICN3D.
-  4. Use protein homology resources to generate multiple sequence alignments from a species collection.
+- (Introduction) Learn about the role of the insulin receptor protein and insulin binding
+    - Review the Central Dogma in the context of Protein Structure/Function and Gene Sequence Variation
+    - Successfully utilize a variety of NCBI databases and software to deepen understanding of ???
+- (Module 1) Use computational tools to model the protein structure
+    - Explore the relationship between protein structure & function
+    - Visualize & predict what effect a mutation will have on protein activity
+- (Module 2 & 3) Use computational tools to find and compare DNA sequences
+- (Module 4) Discuss implications of genetics on multifactorial disease 
+
+Target Audience: Students that have successfully completed a majors level introductory biology course or equivalent. This exercise is intended to be completed as a guided case study completed in a 3 hour lab, distributed across lectures or hybrid between in person and self-directed work. 
+
+Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with protein structure and signaling cascades
+
 
 ## Course Materials
 Jeff's awesome iCn3D structure
 https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6
 
+working Google doc to be used during development) https://docs.google.com/document/d/1JpeNqyG5Vt6PPsPShBwHitOZUnhFL4RzY-PW6xXj43E/edit
+
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
+ 
+NCBI Resouces: NCBI Gene, BLAST, iCn3D, ClinVar, Structure, COBALT, NLM Bookshelf, OMIM
+Other Resources: PDB, GeneCards, Reactome
 
-  1. Human insulin receptor NCBI Gene page: https://www.ncbi.nlm.nih.gov/gene/3643
-  2. Human insulin receptor structure bound to 4 insulin molecules: [https://www.ncbi.nlm.nih.gov/Structure/pdb/6SOF](https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?Dopt=s&uid=181343)
-  3. 
-(working Google doc to be used during development) https://docs.google.com/document/d/1JpeNqyG5Vt6PPsPShBwHitOZUnhFL4RzY-PW6xXj43E/edit
+Module 1: Visualizing Protein Structure to Explore Function in the Insulin Receptor
 
+Module 2: Comparing the CAT & G's to Explore the Insulin Receptor Across Species
+
+Module 3: Ligand vs Receptor- Exploring the Insulin Protein
+
+Module 4: Beyond the Receptor- Discussing Type 2 Diabetes as a Complex Disease
 
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
-Question 1. "How many insulin receptor structures are there?"
 
 ## Future Work
 Optional section. Briefly mention any potential future development plans for the curriculum package.
