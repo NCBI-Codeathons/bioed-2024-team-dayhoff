@@ -40,13 +40,15 @@ Specify the resources developed, including lesson plans, activities, worksheets,
 NCBI Resouces: NCBI Gene, BLAST, iCn3D, ClinVar, Structure, COBALT, NLM Bookshelf, OMIM
 Other Resources: PDB, GeneCards, Reactome
 
-Module 1: Visualizing Protein Structure to Explore Function in the Insulin Receptor
+[Introduction](https://docs.google.com/document/d/1o4GXr9kprHp_d80uKCZU_u5s_WTvtmRvqu72Qs3iy1I/edit)
+
+[Module 1: Visualizing Protein Structure to Explore Function in the Insulin Receptor](https://docs.google.com/file/d/1kPnJrkZjyr3BZcuNNwYvCU-CGbA3pvJ9/edit?usp=docslist_api&filetype=mspresentation)
 
 Module 2: Comparing the CAT & G's to Explore the Insulin Receptor Across Species
 
 Module 3: Ligand vs Receptor- Exploring the Insulin Protein
 
-Module 4: Beyond the Receptor- Discussing Type 2 Diabetes as a Complex Disease
+Module 4: Beyond the Receptor- Mendelian Disease vs Complex Disease
 
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
