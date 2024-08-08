@@ -32,8 +32,8 @@ Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with pro
 ## Course Materials
 Jeff's awesome iCn3D structure
 https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6
-
-working Google doc to be used during development) https://docs.google.com/document/d/1JpeNqyG5Vt6PPsPShBwHitOZUnhFL4RzY-PW6xXj43E/edit
+https://drive.google.com/drive/folders/1C1TRqcUMzJgkzh12VWb3xKCN-WopVG-Z?usp=drive_link
+working Google folder to be used during development
 
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
  
