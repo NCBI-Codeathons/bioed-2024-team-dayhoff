@@ -17,12 +17,12 @@ List the specific learning goals students will achieve with this curriculum.
 ## Learning Objectives
 - (Introduction) Learn about the role of the insulin receptor protein and insulin binding
     - Review the Central Dogma in the context of Protein Structure/Function and Gene Sequence Variation
-    - Successfully utilize a variety of NCBI databases and software to deepen understanding of ???
-- (Module 1) Use computational tools to model the protein structure
-    - Explore the relationship between protein structure & function
-    - Visualize & predict what effect a mutation will have on protein activity
-- (Module 2 & 3) Use computational tools to find and compare DNA sequences
-- (Module 4) Discuss implications of genetics on multifactorial disease 
+- Successfully utilize a variety of NCBI databases and software to deepen understanding of ???
+    - (Module 1) Use computational tools to model the protein structure
+        - Explore the relationship between protein structure & function
+        - Visualize & predict what effect a mutation will have on protein activity
+    - (Module 2 & 3) Use computational tools to find and compare DNA sequences
+    - (Module 4) Discuss implications of genetics on multifactorial disease 
 
 Target Audience: Students that have successfully completed a majors level introductory biology course or equivalent. This exercise is intended to be completed as a guided case study completed in a 3 hour lab, distributed across lectures or hybrid between in person and self-directed work. 
 
