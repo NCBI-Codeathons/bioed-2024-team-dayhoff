@@ -1,7 +1,7 @@
 # Dayhoff
 
 List of participants and affiliations:
-- Kelly Vaughan, Ph.D., Associate Professor & Chair of Biology, King University (Team Leader), lkvaughan@king.edu
+- Kelly Vaughan, Ph.D., Associate Professor and Chair of Biology, King University (Team Leader), lkvaughan@king.edu
 - Kehinde Idowu, Ph.D., Texas Southern University
 - Jeffrey Robinson, Ph.D., Biostatistics and Bioinformatics faculty, UMBC Translational Life Science Technology BS program.
 - [Katie Sandlin](https://www.linkedin.com/in/kmsandlin/), M.S., [Genomics Education Partnership](https://thegep.org/) / [The University of Alabama](https://bsc.ua.edu/)
@@ -9,25 +9,24 @@ List of participants and affiliations:
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
 
-Students will explore the structure & evolutionary relatoinships in the Insulin Receptor gene. The premise is based on the question of why can diabetic cats use the same insulin as humans.
+Students will explore the structure and evolutionary relationships in the insulin receptor.
+
+Target Audience: Students that have successfully completed a majors level introductory biology course or equivalent. This exercise is intended to be completed as a guided case study completed in a 3 hour lab, distributed across lectures or hybrid between in person and self-directed work. 
+
+Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with protein structure and signaling cascades
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.
 
 ## Learning Objectives
 - (Introduction) Learn about the role of the insulin receptor protein and insulin binding
-    - Review the Central Dogma in the context of Protein Structure/Function and Gene Sequence Variation
+    - Review the Central Dogma in the context of protein structure/function and gene sequence variation
 - Successfully utilize a variety of NCBI databases and software to deepen understanding of ???
     - (Module 1) Use computational tools to model the protein structure
-        - Explore the relationship between protein structure & function
-        - Visualize & predict what effect a mutation will have on protein activity
-    - (Module 2 & 3) Use computational tools to find and compare DNA sequences
+        - Explore the relationship between protein structure and function
+        - Visualize and predict what effect a mutation will have on protein activity
+    - (Module 2 and 3) Use computational tools to find and compare DNA sequences
     - (Module 4) Discuss implications of genetics on multifactorial disease 
-
-Target Audience: Students that have successfully completed a majors level introductory biology course or equivalent. This exercise is intended to be completed as a guided case study completed in a 3 hour lab, distributed across lectures or hybrid between in person and self-directed work. 
-
-Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with protein structure and signaling cascades
-
 
 ## Course Materials
 Jeff's awesome iCn3D structure
@@ -56,7 +55,7 @@ Explain how student learning will be evaluated (e.g., quizzes, assignments, proj
 Optional section. Briefly mention any potential future development plans for the curriculum package.
 
 # NCBI Codeathon Disclaimer
-This poject was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
+This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
 
 For general questions about NCBI software and tools, please visit: [NCBI Contact Page](https://www.ncbi.nlm.nih.gov/home/about/contact/)
 
