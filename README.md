@@ -29,11 +29,9 @@ List the specific learning goals students will achieve with this curriculum.
     - (Module 4) Discuss implications of genetics on multifactorial disease 
 
 ## Course Materials
-Jeff's awesome iCn3D structure
-https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6
+[Jeff's awesome iCn3D structure](https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6)
 
-https://drive.google.com/drive/folders/1C1TRqcUMzJgkzh12VWb3xKCN-WopVG-Z?usp=drive_link
-working Google folder to be used during development
+[working Google folder to be used during development](https://drive.google.com/drive/folders/1C1TRqcUMzJgkzh12VWb3xKCN-WopVG-Z?usp=drive_link)
 
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
  
