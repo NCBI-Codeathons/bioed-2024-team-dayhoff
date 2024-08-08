@@ -9,7 +9,7 @@ List of participants and affiliations:
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
 
-Students will explore the structure and evolutionary relationships in the insulin receptor.
+Students will explore the structure and evolutionary relationships in the insulin receptor, while being introduced to the genetic basis of disease.
 
 Target Audience: Students that have successfully completed a majors level introductory biology course or equivalent. This exercise is intended to be completed as a guided case study completed in a 3 hour lab, distributed across lectures or hybrid between in person and self-directed work. 
 
