@@ -32,6 +32,7 @@ Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with pro
 ## Course Materials
 Jeff's awesome iCn3D structure
 https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6
+
 https://drive.google.com/drive/folders/1C1TRqcUMzJgkzh12VWb3xKCN-WopVG-Z?usp=drive_link
 working Google folder to be used during development
 
