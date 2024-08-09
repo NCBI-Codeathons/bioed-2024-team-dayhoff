@@ -31,8 +31,6 @@ Other Resources: PDB, GeneCards, Reactome
 - (Module 3) Discuss implications of genetics on multifactorial disease 
 
 ## Course Materials
-
-## Lesson Outline
 <strong>Introduction</strong> The introduction to the lesson provides background information on the roles and interactions of insulin with the insulin receptor and one ramification of perturbations to the insulin signaling pathway-Type 2 Diabetes. 
 <strong>Lesson File: </strong>Introduction.pdf
 
