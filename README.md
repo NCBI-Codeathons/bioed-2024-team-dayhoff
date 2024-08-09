@@ -1,6 +1,5 @@
 # Molecular Basis of Insulin Receptor Function Using NCBI Tools
 
-List of participants and affiliations:
 - Kelly Vaughan, Ph.D., Associate Professor and Chair of Biology, King University (Team Leader), lkvaughan@king.edu
 - Kehinde Idowu, Ph.D., Texas Southern University
 - Jeffrey Robinson, Ph.D., Biostatistics and Bioinformatics faculty, UMBC Translational Life Science Technology BS program.
@@ -8,34 +7,32 @@ List of participants and affiliations:
 
 # Project Summary
 
-Students will explore the structure and evolutionary relationships in the insulin receptor, while being introduced to the genetic basis of disease.
+Students will explore the structure and evolutionary relationships in the insulin receptor while being introduced to the genetic basis of disease.
 
 Target Audience: Students that have successfully completed a majors level introductory biology course or equivalent. This exercise is intended to be completed as a guided case study completed in a 3 hour lab, distributed across lectures or hybrid between in person and self-directed work. 
 
 Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with protein structure and signaling cascades
 
-NCBI Resources Utilized:
+NCBI Resources Utilized: iCn3D, ClinVar, SNPdb, BLAST, COBALT, Comparitive Genome Viewer, NCBI Gene, Structure, NLM Bookshelf, OMIM
+Other Resources: PDB, GeneCards, Reactome
 
 # Curricular Package Details
 
 ## Learning Objectives
 - (Introduction) Learn about the roles and interactions of insulin with the insulin receptor
 - (Module 1) Explore clinical sequence variations in molecular structure
-  - Use the iCn3D app to visualize protein structure.
-  - Become familiar with basic functions and modifications available in the iCn3D interface.
-  - Become familiar with the structure of the Insulin Receptor protein.
-  - Use iCn3D to investigate mutations in the insulin receptor associated with Leprechaunism.
-  - Use iCn3D to identify molecular interactions between mutated amino acid residues and other amino acids.
-- (Module 2 and 3) Use computational tools to find and compare DNA sequences
-- (Module 4) Discuss implications of genetics on multifactorial disease 
+  - Use the iCn3D app to visualize protein structure
+  - Become familiar with basic functions and modifications available in the iCn3D interface
+  - Become familiar with the structure of the Insulin Receptor protein
+  - Use iCn3D to investigate mutations in the insulin receptor associated with Leprechaunism
+  - Use iCn3D to identify molecular interactions between mutated amino acid residues and other amino acids
+- (Module 2) Use NCBI tools for data search and gene and protein sequence comparison
+- (Module 3) Discuss implications of genetics on multifactorial disease 
 
 ## Course Materials
-[Jeff's awesome iCn3D structure](https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6)
+[iCn3D structure](https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6)
 
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
- 
-NCBI Resouces: NCBI Gene, BLAST, iCn3D, ClinVar, Structure, COBALT, NLM Bookshelf, OMIM
-Other Resources: PDB, GeneCards, Reactome
 
 [Introduction](https://docs.google.com/document/d/1o4GXr9kprHp_d80uKCZU_u5s_WTvtmRvqu72Qs3iy1I/edit)
 
