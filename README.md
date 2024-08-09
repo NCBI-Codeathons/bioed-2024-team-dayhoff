@@ -16,7 +16,7 @@ Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with pro
 
 NCBI Resources Utilized:
 
-# <center>Curricular Package Details</center>
+# Curricular Package Details
 
 ## Learning Objectives
 - (Introduction) Learn about the roles and interactions of insulin with the insulin receptor
