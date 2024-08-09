@@ -28,7 +28,7 @@ Other Resources: PDB, GeneCards, Reactome
   - Use iCn3D to investigate mutations in the insulin receptor associated with Leprechaunism
   - Use iCn3D to identify molecular interactions between mutated amino acid residues and other amino acids
 - (Module 2) Use NCBI tools for data search and gene and protein sequence comparison
-- (Module 3) Discuss implications of genetics on multifactorial disease 
+- (Module 3) Discuss implications of genetics on disease 
 
 ## Course Materials
 <strong>Introduction</strong> The introduction to the lesson provides background information on the roles and interactions of insulin with the insulin receptor and one ramification of perturbations to the insulin signaling pathway-Type 2 Diabetes. 
@@ -41,6 +41,9 @@ Other Resources: PDB, GeneCards, Reactome
 <strong>Module 2.</strong> Comparative sequence alignment between cat, human, and pig INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. 
 <strong>NCBI Tools:</strong> Comparative Genome Viewer (CGV), BLASTn, COBALT 
 <strong>Lesson File: </strong>Sequence_Comparison.pdf
+
+<strong>Module 3.</strong>  Connecting the dots from Gene to Protein to Disease
+<strong>NCBI Tools:</strong> MedGen, OMIM, GeneReviews, MedlinePlus, ClinVar
 
 
 ## Assessments
