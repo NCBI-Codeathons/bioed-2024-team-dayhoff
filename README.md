@@ -38,11 +38,11 @@ Other Resources: PDB, GeneCards, Reactome
 <strong>NCBI Tools:</strong> iCn3D, dbSNP, ClinVar
 <strong>Lesson File: </strong>INSR.pdf
 
-<strong>Module 2.</strong> Comparative sequence alignment between cat, human, and pig INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. 
+<strong>Module 2.</strong> Comparative sequence alignment between cat, dog, and human INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. 
 <strong>NCBI Tools:</strong> Comparative Genome Viewer (CGV), BLASTn, COBALT 
 <strong>Lesson File: </strong>Sequence_Comparison.pdf
 
-<strong>Module 3.</strong>  Connecting the dots from Gene to Protein to Disease
+<strong>Module 3.</strong>  Connecting the dots from gene to protein to disease
 <strong>NCBI Tools:</strong> MedGen, OMIM, GeneReviews, MedlinePlus, ClinVar
 
 
