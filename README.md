@@ -37,11 +37,11 @@ Specify the resources developed, including lesson plans, activities, worksheets,
 
 Introduction
 
-Module 1: Exploring clinical sequence variations in molecular structure (INSR.pdf)
+Lesson Outline.
+Module 1. Insulin Receptor mutations in Leprechaunism (Donohue Syndrome), an example of a rare mendelian mutation to the INSR-Insulin interaction domain.  NCBI Tools: iCn3D, dbSNP, ClinVar. Lesson content. Exploring clinical sequence variations in molecular structure (INSR.pdf)
 
-Module 2: Sequence comparison of the human and cat insulin receptor (Sequence_Comparison.pdf)
+Module 2. Comparative sequence alignment between Cat, Human, and Pig INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. NCBI Tools: Comparative Genome Viewer (CGV), BLASTn, Cobalt. Sequence comparison of the human and cat insulin receptor (Sequence_Comparison.pdf)
 
-Module 3: 
 
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
