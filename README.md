@@ -19,19 +19,18 @@ Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with pro
 List the specific learning goals students will achieve with this curriculum.
 
 ## Learning Objectives
-- (Introduction) Learn about the role of the insulin receptor protein and insulin binding
-    - Review the Central Dogma in the context of protein structure/function and gene sequence variation
-- Successfully utilize a variety of NCBI databases and software
-    - (Module 1) Use computational tools to model the protein structure
-        - Explore the relationship between protein structure and function
-        - Visualize and predict what effect a mutation will have on protein activity
-    - (Module 2 and 3) Use computational tools to find and compare DNA sequences
-    - (Module 4) Discuss implications of genetics on multifactorial disease 
+- (Introduction) Learn about the roles and interactions of insulin with the insulin receptor
+- (Module 1) Explore clinical sequence variations in molecular structure
+  - Use the iCn3D app to visualize protein structure.
+  - Become familiar with basic functions and modifications available in the iCn3D interface.
+  - Become familiar with the structure of the Insulin Receptor protein.
+  - Use iCn3D to investigate mutations in the insulin receptor associated with Leprechaunism.
+  - Use iCn3D to identify molecular interactions between mutated amino acid residues and other amino acids.
+- (Module 2 and 3) Use computational tools to find and compare DNA sequences
+- (Module 4) Discuss implications of genetics on multifactorial disease 
 
 ## Course Materials
 [Jeff's awesome iCn3D structure](https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6)
-
-[working Google folder to be used during development](https://drive.google.com/drive/folders/1C1TRqcUMzJgkzh12VWb3xKCN-WopVG-Z?usp=drive_link)
 
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
  
