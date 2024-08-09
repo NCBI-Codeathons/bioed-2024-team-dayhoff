@@ -13,7 +13,7 @@ Target Audience: Students that have successfully completed a majors level introd
 
 Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with protein structure and signaling cascades
 
-NCBI Resources Utilized: iCn3D, ClinVar, SNPdb, BLAST, COBALT, Comparative Genome Viewer, NCBI Gene, Structure, NLM Bookshelf, OMIM
+NCBI Resources Utilized: iCn3D, ClinVar, dbSNP, BLAST, COBALT, Comparative Genome Viewer, NCBI Gene, Structure, NLM Bookshelf, OMIM
 
 Other Resources: PDB, GeneCards, Reactome
 
