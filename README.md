@@ -1,10 +1,10 @@
-# Dayhoff
+# Molecular Basis of Insulin Receptor Function Using NCBI Tools
 
 List of participants and affiliations:
 - Kelly Vaughan, Ph.D., Associate Professor and Chair of Biology, King University (Team Leader), lkvaughan@king.edu
 - Kehinde Idowu, Ph.D., Texas Southern University
 - Jeffrey Robinson, Ph.D., Biostatistics and Bioinformatics faculty, UMBC Translational Life Science Technology BS program.
-- [Katie Sandlin](https://www.linkedin.com/in/kmsandlin/), M.S., [Genomics Education Partnership](https://thegep.org/) / [The University of Alabama](https://bsc.ua.edu/)
+- [Katie Sandlin](https://www.linkedin.com/in/kmsandlin/), M.S., Genomics Education Partnership / The University of Alabama
 
 # Project Summary
 
