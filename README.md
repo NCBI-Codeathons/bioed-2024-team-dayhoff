@@ -40,7 +40,7 @@ Introduction
 ## Lesson Outline.
 <strong>Module 1.</strong> Insulin Receptor mutations in Leprechaunism (Donohue Syndrome), an example of a rare mendelian mutation to the INSR-Insulin interaction domain.  <strong>NCBI Tools:</strong> iCn3D, dbSNP, ClinVar. <strong>Lesson content.</strong> Exploring clinical sequence variations in molecular structure (INSR.pdf)
 
-<strong>Module 2.</strong> Comparative sequence alignment between Cat, Human, and Pig INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. <strong>NCBI Tools:</strong> Comparative Genome Viewer (CGV), BLASTn, Cobalt. <strong>Lessong content.</strong> Sequence comparison of the human and cat insulin receptor (Sequence_Comparison.pdf)
+<strong>Module 2.</strong> Comparative sequence alignment between Cat, Human, and Pig INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. <strong>NCBI Tools:</strong> Comparative Genome Viewer (CGV), BLASTn, Cobalt. <strong>Lesson content.</strong> Sequence comparison of the human and cat insulin receptor (Sequence_Comparison.pdf)
 
 
 ## Assessments
