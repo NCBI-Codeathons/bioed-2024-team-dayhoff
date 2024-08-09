@@ -34,13 +34,13 @@ Other Resources: PDB, GeneCards, Reactome
 
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
 
-[Introduction](https://docs.google.com/document/d/1o4GXr9kprHp_d80uKCZU_u5s_WTvtmRvqu72Qs3iy1I/edit)
+Introduction
 
-Module 1: Exploring clinical sequence variations in molecular structure
+Module 1: Exploring clinical sequence variations in molecular structure (INSR.pdf)
 
-Module 2: Sequence comparison of the human and cat insulin receptor
+Module 2: Sequence comparison of the human and cat insulin receptor (Sequence_Comparison.pdf)
 
-§red[Module 3: Beyond the Receptor - Mendelian Disease vs Complex Disease]
+Module 3: 
 
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
