@@ -31,16 +31,18 @@ Other Resources: PDB, GeneCards, Reactome
 - (Module 3) Discuss implications of genetics on multifactorial disease 
 
 ## Course Materials
-[iCn3D structure](https://structure.ncbi.nlm.nih.gov/icn3d/share.html?drCDjo6EfXPxDhLw6)
 
-Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
+## Lesson Outline
+<strong>Introduction</strong> The introduction to the lesson provides background information on the roles and interactions of insulin with the insulin receptor and one ramification of perturbations to the insulin signaling pathway-Type 2 Diabetes. 
+<strong>Lesson File: </strong>Introduction.pdf
 
-Introduction
+<strong>Module 1.</strong> Insulin Receptor mutations in Leprechaunism (Donohue Syndrome), an example of a rare Mendelian mutation to the INSR-Insulin interaction domain.
+<strong>NCBI Tools:</strong> iCn3D, dbSNP, ClinVar
+<strong>Lesson File: </strong>INSR.pdf
 
-## Lesson Outline.
-<strong>Module 1.</strong> Insulin Receptor mutations in Leprechaunism (Donohue Syndrome), an example of a rare mendelian mutation to the INSR-Insulin interaction domain.  <strong>NCBI Tools:</strong> iCn3D, dbSNP, ClinVar. <strong>Lesson content.</strong> Exploring clinical sequence variations in molecular structure (INSR.pdf)
-
-<strong>Module 2.</strong> Comparative sequence alignment between Cat, Human, and Pig INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. <strong>NCBI Tools:</strong> Comparative Genome Viewer (CGV), BLASTn, Cobalt. <strong>Lesson content.</strong> Sequence comparison of the human and cat insulin receptor (Sequence_Comparison.pdf)
+<strong>Module 2.</strong> Comparative sequence alignment between cat, human, and pig INSR protein and nucleotide sequences showing specific regions of high sequence conservation and variation. 
+<strong>NCBI Tools:</strong> Comparative Genome Viewer (CGV), BLASTn, COBALT 
+<strong>Lesson File: </strong>Sequence_Comparison.pdf
 
 
 ## Assessments
