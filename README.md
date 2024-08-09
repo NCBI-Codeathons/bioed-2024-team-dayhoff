@@ -7,7 +7,6 @@ List of participants and affiliations:
 - [Katie Sandlin](https://www.linkedin.com/in/kmsandlin/), M.S., [Genomics Education Partnership](https://thegep.org/) / [The University of Alabama](https://bsc.ua.edu/)
 
 # Project Summary
-Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
 
 Students will explore the structure and evolutionary relationships in the insulin receptor, while being introduced to the genetic basis of disease.
 
@@ -15,8 +14,9 @@ Target Audience: Students that have successfully completed a majors level introd
 
 Prerequisite Knowledge: Understanding of the Central Dogma, familiarity with protein structure and signaling cascades
 
-# Curricular Package Details
-List the specific learning goals students will achieve with this curriculum.
+NCBI Resources Utilized:
+
+# <center>Curricular Package Details</center>
 
 ## Learning Objectives
 - (Introduction) Learn about the roles and interactions of insulin with the insulin receptor
